@@ -3,7 +3,16 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
-
+<div align="center">
+ 
+⚡ I'm a fat person and people say that belly is for code. <br/>
+😄 In life we ​​have to be confident, not self-deprecating.<br/>
+🔭 My knowledge comes from school, online courses and academy projects with my team.<br/>
+🌱 I am studying to be a programmer.<br/>
+👯 Always sociable and actively working together.<br/>
+🤔 I need more experience from everyone to help me better.<br/>
+💬 I will describe myself with 3 words: flexible thinking, eager to learn and sophisticated. Flexible thinking in all aspects of things in general and at work in particular, I am always ready to adapt and come up with creative solutions in a diverse working environment. I constantly explore and grasp new trends in the technology industry and always pay attention to detail and quality in every aspect of my work.In addition, I am also an active person who often participates in volunteer activities and was once the vice president of a youth club and is passionate about sports, especially football and basketball.<br/>
+ </div>
 
 
 <br />
@@ -34,6 +43,8 @@
 
 ## Skills:
 <p align="center">
+  <img src="https://img.icons8.com/color/48/000000/cs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
@@ -45,6 +56,7 @@
 <!--   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-</p>
+</p>br>
+<img src="https://skillicons.dev/icons?i=vscode,git,figma,firebase,azure,aws,notion,pr,au" /><br>
 
 
